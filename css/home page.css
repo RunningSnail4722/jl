@@ -1,0 +1,164 @@
+
+.main{
+	position: absolute;
+    top: 46px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: url(../img/7.jpg) no-repeat center center;
+    background-size: cover;
+}
+.kong{
+	position: absolute;
+    top: 4px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #FFFFFF;
+    opacity: 0.8;
+}
+.content{
+	position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 99%;
+    overflow-y: auto;
+    overflow-x: hidden;
+    -webkit-overflow-scrolling: touch;
+}
+.qw{
+    width: 100%;
+    height: 100%;
+    background: #fafafa;
+}
+.er{
+	width: 100%;
+	height: 100%;
+}
+.gyw{
+	padding-top: 60px;
+	height: 100%;
+	margin: auto;
+}
+.top{
+	width: 84px;
+	height: 36px;
+	margin: auto;
+	margin-bottom: 50px;
+	border-bottom: 4px solid #e67e03;
+}
+.top1{
+	width: 112px;
+	height: 36px;
+	margin: auto;
+	margin-bottom: 50px;
+	border-bottom: 4px solid #e67e03;
+}
+.content h1{
+	color: #000000;
+	margin-top: 0;
+	font-size:28px;
+}
+.gywCenter{
+	text-align: center;
+	margin-bottom: 30px;
+	
+}
+.gywCenter img{
+	max-width: 200px;
+	max-height: 200px;
+    width: 40%;
+    border-radius:50%;
+	overflow: hidden;
+}
+.gywBottom{
+	text-align: center;
+	color: #807d76;
+}
+.bottom .l1{
+	margin-top: 55px;
+	width: 33%;
+	height: 25%;
+	float: left;
+	color: #807d76;
+    text-align: center;
+    
+}
+.bottom1 .l1{
+	margin-top: 55px;
+	width: 20%;
+	height: 20%;
+	float: left;
+    text-align: center;
+}
+.bottom img{
+	width: 30%;
+}
+.bottom1 img{
+	width: 50%;
+}
+.bottom2{
+	width: 90%;
+	margin: auto;
+}
+.bottom2 .l1{
+	position: relative;
+	margin-top: 55px;
+	width: 25%;
+	height: 25%;
+	float: left;
+    text-align: center;
+    cursor: pointer;
+}
+.bottom2 .l1 img{
+	width: 90%;
+}
+.color{
+	color:#e67e03 ;
+	font-size: 18px;
+}
+.qwe{
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 15px;
+	width:90% ;
+	height: 96%;
+	background: #000000;
+	opacity: 0.5;
+}
+.text{
+	position: absolute;
+	top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 20%;
+    margin: auto;
+    color: #FFFFFF;
+    font-size: 22px;
+}
+.bottom2 .l1:hover .qwe{
+	display: block;
+	left: 0 ;
+	width:100% ;
+}
+.bottom2 .l1:hover img{
+	width: 100%;
+}
+.bottom3 .l1{
+	margin-top: 55px;
+	width: 50%;
+	height: 25%;
+	float: left;
+	color: #807d76;
+    text-align: center;
+    
+}
+.bottom3 img{
+	width: 20%;
+}
